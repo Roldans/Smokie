@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: c39ae78353dc8424c9579eb4cfc2b107
+timeCreated: 1456820463
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "animaci\xF3n-barra-progreso_0"
+    21300002: "animaci\xF3n-barra-progreso_1"
+    21300004: "animaci\xF3n-barra-progreso_2"
+    21300006: "animaci\xF3n-barra-progreso_3"
+    21300008: "animaci\xF3n-barra-progreso_4"
+    21300010: "animaci\xF3n-barra-progreso_5"
+    21300012: "animaci\xF3n-barra-progreso_6"
+    21300014: "animaci\xF3n-barra-progreso_7"
+    21300016: "animaci\xF3n-barra-progreso_8"
+    21300018: "animaci\xF3n-barra-progreso_9"
+    21300020: "animaci\xF3n-barra-progreso_10"
+    21300022: "animaci\xF3n-barra-progreso_11"
+    21300024: "animaci\xF3n-barra-progreso_12"
+    21300026: "animaci\xF3n-barra-progreso_13"
+    21300028: "animaci\xF3n-barra-progreso_14"
+    21300030: "animaci\xF3n-barra-progreso_15"
+    21300032: "animaci\xF3n-barra-progreso_16"
+    21300034: "animaci\xF3n-barra-progreso_17"
+    21300036: "animaci\xF3n-barra-progreso_18"
+    21300038: "animaci\xF3n-barra-progreso_19"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "animaci\xF3n-barra-progreso_0"
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 577
+        width: 205
+        height: 34
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -205, y: 17}
+        - {x: -205, y: -17}
+        - {x: -1, y: -17}
+        - {x: 0, y: -15}
+        - {x: 0, y: 14}
+        - {x: -6, y: 17}
+    - name: "animaci\xF3n-barra-progreso_1"
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 577
+        width: 202
+        height: 34
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -202, y: 17}
+        - {x: -202, y: -17}
+        - {x: -6, y: -17}
+        - {x: 0, y: -12}
+        - {x: 0, y: 13}
+        - {x: -3, y: 17}
+    - name: "animaci\xF3n-barra-progreso_2"
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 577
+        width: 202
+        height: 34
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -202, y: -17}
+        - {x: -199, y: -17}
+        - {x: -198, y: -16}
+        - {x: -199, y: -13}
+        - {x: -202, y: -13}
+      - - {x: -195, y: 17}
+        - {x: -195, y: -17}
+        - {x: -5, y: -17}
+        - {x: 0, y: -12}
+        - {x: 0, y: 13}
+        - {x: -3, y: 17}
+    - name: "animaci\xF3n-barra-progreso_3"
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 577
+        width: 187
+        height: 34
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -186, y: 17}
+        - {x: -187, y: 15}
+        - {x: -187, y: -17}
+        - {x: -5, y: -17}
+        - {x: 0, y: -12}
+        - {x: 0, y: 13}
+        - {x: -6, y: 17}
+    - name: "animaci\xF3n-barra-progreso_4"
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 448
+        width: 181
+        height: 34
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -181, y: 17}
+        - {x: -181, y: -17}
+        - {x: -4, y: -17}
+        - {x: 0, y: -15}
+        - {x: 0, y: 14}
+        - {x: -1, y: 17}
+    - name: "animaci\xF3n-barra-progreso_5"
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 448
+        width: 175
+        height: 34
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -175, y: 17}
+        - {x: -175, y: -17}
+        - {x: -2, y: -17}
+        - {x: 0, y: -14}
+        - {x: 0, y: 13}
+        - {x: -6, y: 17}
+    - name: "animaci\xF3n-barra-progreso_6"
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 448
+        width: 169
+        height: 34
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -169, y: 17}
+        - {x: -169, y: -17}
+        - {x: -6, y: -17}
+        - {x: 0, y: -13}
+        - {x: 0, y: 13}
+        - {x: -6, y: 17}
+    - name: "animaci\xF3n-barra-progreso_7"
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 447
+        width: 163
+        height: 34
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -162, y: 17}
+        - {x: -163, y: 15}
+        - {x: -163, y: -17}
+        - {x: -6, y: -17}
+        - {x: 0, y: -13}
+        - {x: 0, y: 13}
+        - {x: -6, y: 17}
+    - name: "animaci\xF3n-barra-progreso_8"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 330
+        width: 157
+        height: 34
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 17}
+        - {x: -157, y: 17}
+        - {x: -157, y: -17}
+        - {x: -6, y: -17}
+        - {x: 0, y: -11}
+        - {x: 0, y: 13}
+    - name: "animaci\xF3n-barra-progreso_9"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 330
+        width: 151
+        height: 34
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 17}
+        - {x: -151, y: 16}
+        - {x: -151, y: -17}
+        - {x: -5, y: -17}
+        - {x: 0, y: -12}
+        - {x: 0, y: 13}
+        - {x: -6, y: 17}
+    - name: "animaci\xF3n-barra-progreso_10"
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 330
+        width: 145
+        height: 34
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -145, y: 17}
+        - {x: -145, y: -17}
+        - {x: -1, y: -17}
+        - {x: 0, y: -13}
+        - {x: 0, y: 16}
+        - {x: -2, y: 17}
+    - name: "animaci\xF3n-barra-progreso_11"
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 330
+        width: 139
+        height: 34
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -139, y: 17}
+        - {x: -139, y: -17}
+        - {x: -4, y: -17}
+        - {x: 0, y: -12}
+        - {x: 0, y: 13}
+        - {x: -6, y: 17}
+    - name: "animaci\xF3n-barra-progreso_12"
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 221
+        width: 133
+        height: 34
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -132, y: 17}
+        - {x: -133, y: 15}
+        - {x: -133, y: -17}
+        - {x: -6, y: -17}
+        - {x: 0, y: -13}
+        - {x: 0, y: 13}
+        - {x: -6, y: 17}
+    - name: "animaci\xF3n-barra-progreso_13"
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 221
+        width: 127
+        height: 34
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127, y: 17}
+        - {x: -127, y: -17}
+        - {x: -4, y: -17}
+        - {x: 0, y: -14}
+        - {x: 0, y: 13}
+        - {x: -1, y: 17}
+    - name: "animaci\xF3n-barra-progreso_14"
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 218
+        width: 121
+        height: 34
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -121, y: 17}
+        - {x: -121, y: -17}
+        - {x: 0, y: -17}
+        - {x: 0, y: 16}
+        - {x: -2, y: 17}
+    - name: "animaci\xF3n-barra-progreso_15"
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 218
+        width: 115
+        height: 34
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115, y: 17}
+        - {x: -115, y: -17}
+        - {x: -4, y: -17}
+        - {x: 0, y: -14}
+        - {x: 0, y: 13}
+        - {x: -1, y: 17}
+    - name: "animaci\xF3n-barra-progreso_16"
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 106
+        width: 109
+        height: 34
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -109, y: 17}
+        - {x: -109, y: -17}
+        - {x: 0, y: -17}
+        - {x: 0, y: 13}
+        - {x: -1, y: 17}
+    - name: "animaci\xF3n-barra-progreso_17"
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 106
+        width: 103
+        height: 34
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 17}
+        - {x: -103, y: -17}
+        - {x: -6, y: -17}
+        - {x: 0, y: -12}
+        - {x: 0, y: 12}
+        - {x: -6, y: 17}
+    - name: "animaci\xF3n-barra-progreso_18"
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 106
+        width: 97
+        height: 34
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97, y: 17}
+        - {x: -97, y: -17}
+        - {x: -1, y: -17}
+        - {x: 0, y: -14}
+        - {x: 0, y: 15}
+        - {x: -3, y: 17}
+    - name: "animaci\xF3n-barra-progreso_19"
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 106
+        width: 91
+        height: 34
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91, y: 17}
+        - {x: -91, y: -17}
+        - {x: -6, y: -17}
+        - {x: 0, y: -12}
+        - {x: 0, y: 12}
+        - {x: -6, y: 17}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -5,3 +5,6 @@ Dicho proyecto fué cancelado y no se piensa en terminarlo, por lo que se ha perm
 
 Los dibujos fueron hechos por @mouthykoala (Instagram)
 El código fue desarrollado por Pablo Roldán, al cual pertenece este GitHub
+
+Desarrollado en Unity 5.5.2 en Marzo de 2016
+
